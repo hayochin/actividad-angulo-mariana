@@ -1,3 +1,5 @@
+Reemplazar los datos de servidor/usuario/password con los datos de su local.
+default:
 servidor: DESKTOP-D34PHAV
 usuario: ma
 password: abc123
