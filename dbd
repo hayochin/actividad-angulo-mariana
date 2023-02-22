@@ -1,0 +1,12 @@
+servidor: DESKTOP-D34PHAV
+usuario: ma
+password: abc123
+
+create database cedis
+
+create table articulos(
+	id_articulo int not null primary key,
+	descripcion varchar(60) not null,
+	id_proveedor int not null,
+	activo varchar(10) not null
+)
