@@ -1,0 +1,12 @@
+C:\Users\maria\source\repos\Actividad - Angulo Zazueta\Actividad - Angulo Zazueta\bin\Debug\Actividad - Angulo Zazueta.exe.config
+C:\Users\maria\source\repos\Actividad - Angulo Zazueta\Actividad - Angulo Zazueta\bin\Debug\Actividad - Angulo Zazueta.exe
+C:\Users\maria\source\repos\Actividad - Angulo Zazueta\Actividad - Angulo Zazueta\bin\Debug\Actividad - Angulo Zazueta.pdb
+C:\Users\maria\source\repos\Actividad - Angulo Zazueta\Actividad - Angulo Zazueta\obj\Debug\Actividad - Angulo Zazueta.csproj.AssemblyReference.cache
+C:\Users\maria\source\repos\Actividad - Angulo Zazueta\Actividad - Angulo Zazueta\obj\Debug\Actividad - Angulo Zazueta.csproj.SuggestedBindingRedirects.cache
+C:\Users\maria\source\repos\Actividad - Angulo Zazueta\Actividad - Angulo Zazueta\obj\Debug\Actividad___Angulo_Zazueta.frmPrincipal.resources
+C:\Users\maria\source\repos\Actividad - Angulo Zazueta\Actividad - Angulo Zazueta\obj\Debug\Actividad___Angulo_Zazueta.Properties.Resources.resources
+C:\Users\maria\source\repos\Actividad - Angulo Zazueta\Actividad - Angulo Zazueta\obj\Debug\Actividad - Angulo Zazueta.csproj.GenerateResource.cache
+C:\Users\maria\source\repos\Actividad - Angulo Zazueta\Actividad - Angulo Zazueta\obj\Debug\Actividad - Angulo Zazueta.csproj.CoreCompileInputs.cache
+C:\Users\maria\source\repos\Actividad - Angulo Zazueta\Actividad - Angulo Zazueta\obj\Debug\Actividad - Angulo Zazueta.exe
+C:\Users\maria\source\repos\Actividad - Angulo Zazueta\Actividad - Angulo Zazueta\obj\Debug\Actividad - Angulo Zazueta.pdb
+C:\Users\maria\source\repos\Actividad - Angulo Zazueta\Actividad - Angulo Zazueta\obj\Debug\Actividad___Angulo_Zazueta.form.resources
